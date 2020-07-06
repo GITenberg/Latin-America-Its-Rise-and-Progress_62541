@@ -1,0 +1,39 @@
+_repo: Latin-America-Its-Rise-and-Progress_62541
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Poincaré, Raymond
+    alias: Poincare, Raymond
+    birthdate: 1860
+    deathdate: 1934
+    gutenberg_agent_id: '51996'
+    url: http://www.gutenberg.org/2009/agents/51996
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Raymond_Poincar%C3%A9
+    - https://fr.wikipedia.org/wiki/Raymond_Poincar%C3%A9
+  translator:
+    agent_name: Miall, Bernard
+    alias: Miall, A. Bernard
+    birthdate: 1876
+    deathdate: 1953
+    gutenberg_agent_id: '1214'
+    url: http://www.gutenberg.org/2009/agents/1214
+    wikipedia: https://en.wikipedia.org/wiki/Bernard_Miall
+creator:
+  author:
+    agent_name: Calderon, F. Garcia
+    gutenberg_agent_id: '51995'
+    url: http://www.gutenberg.org/2009/agents/51995
+description: ''
+gutenberg_issued: '2020-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62541'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Latin America: Its Rise and Progress'
+url: http://www.gutenberg.org/ebooks/62541
