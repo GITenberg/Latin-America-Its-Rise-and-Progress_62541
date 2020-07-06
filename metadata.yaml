@@ -19,12 +19,17 @@ contributor:
     gutenberg_agent_id: '1214'
     url: http://www.gutenberg.org/2009/agents/1214
     wikipedia: https://en.wikipedia.org/wiki/Bernard_Miall
+covers:
+- cover_type: archival
+  image_path: 62541-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Calderon, F. Garcia
     gutenberg_agent_id: '51995'
     url: http://www.gutenberg.org/2009/agents/51995
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62541#Latin-America-Its-Rise-and-Progress
 gutenberg_issued: '2020-07-01'
 gutenberg_type: Text
 identifiers:
